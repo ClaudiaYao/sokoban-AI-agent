@@ -4,10 +4,10 @@
 
 this folder contains an app which could make user play the sokoban game, or switch to AI assistant to play the sokoban (need a bit revisement to connect to a pre-trained model)
 
-\*\* star_pusher.py<br>
+**star_pusher.py**<br>
 The game playing app.
 
-\*\* starpusher_specify_map_ai_verify.py<br>
+**starpusher_specify_map_ai_verify.py**<br>
 Check if the AI agent could solve the sokoban with the provided actions.
 
 ## gym_sokoban
